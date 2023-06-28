@@ -8,4 +8,10 @@ export declare class BatteryMonitor {
     private runInterval;
     private shutThePowerOff;
     private turnThePowerOn;
+    logDecision(message: string): void;
+    logStatus(status: {
+        date: Date;
+        percent: number;
+        isCharging: boolean;
+    }): void;
 }
