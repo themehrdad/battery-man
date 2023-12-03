@@ -22,4 +22,3 @@ Find the app's icon and right click on it and open the Settings window. Enter yo
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
