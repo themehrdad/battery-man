@@ -2,7 +2,7 @@
 # Battery Man
 
 A simple battery manager for your laptop.
-It works on Windows and MacOS.
+It works on Windows and macOS.
 
 
 ## Hardware
