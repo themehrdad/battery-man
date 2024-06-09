@@ -2,7 +2,7 @@
 # Battery Man
 
 A simple battery manager for your laptop.
-It works on Windows and MacOS.
+It works on Windows and macOS.
 
 
 ## Hardware
@@ -22,4 +22,3 @@ Find the app's icon and right click on it and open the Settings window. Enter yo
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
